@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1764962289 source:c:\users\gabriel-rodrigues02\documents\intotheabyss\baralho.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"baralho.h"
+
+1764962289 c:\users\gabriel-rodrigues02\documents\intotheabyss\baralho.h
+	"pilha.h"
+	"entidade.h"
+	"item.h"
+
+1764962289 c:\users\gabriel-rodrigues02\documents\intotheabyss\pilha.h
+	"lista.h"
+
+1764962289 c:\users\gabriel-rodrigues02\documents\intotheabyss\lista.h
+
+1764962289 c:\users\gabriel-rodrigues02\documents\intotheabyss\entidade.h
+
+1764962289 c:\users\gabriel-rodrigues02\documents\intotheabyss\item.h
+
+1764962289 source:c:\users\gabriel-rodrigues02\documents\intotheabyss\entidade.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"entidade.h"
+
+1764962289 source:c:\users\gabriel-rodrigues02\documents\intotheabyss\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1764962289 c:\users\gabriel-rodrigues02\documents\intotheabyss\fila.h
+
+1764962289 source:c:\users\gabriel-rodrigues02\documents\intotheabyss\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"item.h"
+
+1764962289 source:c:\users\gabriel-rodrigues02\documents\intotheabyss\jogador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jogador.h"
+
+1764962289 c:\users\gabriel-rodrigues02\documents\intotheabyss\jogador.h
+	"entidade.h"
+	"lista.h"
+	"item.h"
+
+1764962289 source:c:\users\gabriel-rodrigues02\documents\intotheabyss\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1764962289 source:c:\users\gabriel-rodrigues02\documents\intotheabyss\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1764962681 source:c:\users\gabriel-rodrigues02\documents\intotheabyss\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"lista.h"
+	"pilha.h"
+	"fila.h"
+	"entidade.h"
+	"item.h"
+	"jogador.h"
+	"baralho.h"
+
