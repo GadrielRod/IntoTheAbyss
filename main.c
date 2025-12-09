@@ -271,8 +271,8 @@ int combate_executar(Jogador* j, Entidade* monstro) {
                 int dano_sofrido = monstro->dano_base;
                 // Habilidade Guerreiro: Resistência 
                 if (j->base->classe == CLASSE_GUERREIRO) {
-                    dano_sofrido -= def_jog / 5;
-                    int resistencia = def_jog / 5; 
+                    dano_sofrido -= def_jog / 4;
+                    int resistencia = def_jog / 4; 
                     if (dano_sofrido < 0) dano_sofrido = 0;
                     printf("HABILIDADE GUERREIRO: Resistência! \nVoce reduziu o dano recebido em –%d ", resistencia);
                 }
